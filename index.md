@@ -139,4 +139,4 @@ Data: Example Mouse mammary data (fastq files):
 
 This course is based on the course [RNAseq analysis in R](http://combine-australia.github.io/2016-05-11-RNAseq/) prepared by [Combine Australia](https://combine.org.au/) and delivered on May 11/12th 2016 in Carlton. We are extremely grateful to the authors for making their materials available; Maria Doyle, Belinda Phipson, Matt Ritchie, Anna Trigos, Harriet Dashnow, Charity Law.
 
-![](images/combine_banner_small.png)
+![](images/combine_banner_small.png) 
